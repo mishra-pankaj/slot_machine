@@ -1,2 +1,2 @@
 # slot_machine
-a simple project based on slot machine usjing python 
+a simple python  project based on slot machine using python 
